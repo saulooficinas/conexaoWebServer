@@ -1,9 +1,9 @@
 <?php
 	try{
-		$HOST ="bsxhgkaksohfxjkryiij-mysql.services.clever-cloud.com";
-		$BANCO="bsxhgkaksohfxjkryiij";
-		$USUARIO="uhsel6hckcsczsdo";
-		$SENHA="rFYEjyUKSlOuLxpr20wk";
+		$HOST =""; 
+		$BANCO="";
+		$USUARIO="";
+		$SENHA="";
 
 		$PDO = new PDO("mysql:host=".$HOST.";dbname=".$BANCO.";charset=utf8",$USUARIO,$SENHA);
 
