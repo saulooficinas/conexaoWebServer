@@ -6,4 +6,6 @@ Ele é de um projeto das OFICINAS 4.0, pelo instituto federal de alagoas (IFAL)
 
 Ultima modificação: 17/10/2021.
 
+OBS: INDEX.PHP NÃO ESTÁ CONCLUÍDO
+
 
