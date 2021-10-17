@@ -10,7 +10,7 @@
 
 	
 	//SQL da tabela medidor
-	$sql = "INSERT INTO medidor (id_medidor,nome_medidor) VALUES (:id_medidor,nome_medidor)";
+	$sql = "INSERT INTO medidor (id_medidor,nome_medidor) VALUES (:id_medidor,:nome_medidor)";
 
 	//SQL da tabela medidor_v
 	$sql2= "INSERT INTO medidor_v (vazao,sensor) VALUES (:vazao,:sensor)";
